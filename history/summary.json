@@ -4,17 +4,17 @@
     "url": "https://provost.utsa.edu",
     "icon": "https://favicons.githubusercontent.com/provost.utsa.edu",
     "slug": "provost",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 741,
-    "timeDay": 641,
-    "timeWeek": 1047,
-    "timeMonth": 873,
-    "timeYear": 741,
+    "time": 747,
+    "timeDay": 1202,
+    "timeWeek": 1137,
+    "timeMonth": 898,
+    "timeYear": 747,
     "dailyMinutesDown": {}
   }
 ]
